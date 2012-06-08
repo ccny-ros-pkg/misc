@@ -15,3 +15,15 @@
     uri: https://github.com/ccny-ros-pkg/scan_tools.git
     meta:
         repo-name: ccny-ros-pkg
+
+- git: 
+    local-name: ccny_vision
+    uri: http://robotics.ccny.cuny.edu/git/ccny-ros-pkg/ccny_vision.git
+    meta:
+        repo-name: ccny-ros-pkg
+
+- git: 
+    local-name: ccny_drivers
+    uri: http://robotics.ccny.cuny.edu/git/ccny-ros-pkg/ccny_drivers.git
+    meta:
+        repo-name: ccny-ros-pkg
