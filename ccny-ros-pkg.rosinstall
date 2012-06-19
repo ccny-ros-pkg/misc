@@ -16,6 +16,18 @@
     meta:
         repo-name: ccny-ros-pkg
 
+- git:
+    local-name: imu_tools
+    uri: https://github.com/ccny-ros-pkg/imu_tools.git
+    meta:
+        repo-name: ccny-ros-pkg
+
+- git:
+    local-name: phidgets_imu
+    uri: https://github.com/ccny-ros-pkg/phidgets_imu.git
+    meta:
+        repo-name: ccny-ros-pkg
+
 - git: 
     local-name: ccny_vision
     uri: http://robotics.ccny.cuny.edu/git/ccny-ros-pkg/ccny_vision.git
