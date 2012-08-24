@@ -1,4 +1,22 @@
 - git:
+    local-name: asctec_drivers
+    uri: https://github.com/ccny-ros-pkg/asctec_drivers.git
+    meta:
+        repo-name: ccny-ros-pkg
+
+- git:
+    local-name: mav_tools
+    uri: https://github.com/ccny-ros-pkg/mav_tools.git
+    meta:
+        repo-name: ccny-ros-pkg
+
+- git:
+    local-name: scan_tools
+    uri: https://github.com/ccny-ros-pkg/scan_tools.git
+    meta:
+        repo-name: ccny-ros-pkg
+
+- git:
     local-name: imu_tools
     uri: https://github.com/ccny-ros-pkg/imu_tools.git
     meta:
