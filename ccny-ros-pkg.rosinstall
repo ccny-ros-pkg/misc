@@ -23,8 +23,8 @@
         repo-name: ccny-ros-pkg
 
 - git:
-    local-name: phidgets_imu
-    uri: https://github.com/ccny-ros-pkg/phidgets_imu.git
+    local-name: phidgets_drivers
+    uri: https://github.com/ccny-ros-pkg/phidgets_drivers.git
     meta:
         repo-name: ccny-ros-pkg
 
